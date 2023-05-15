@@ -10,7 +10,6 @@ public class Main {
 		
 		Scanner sc= new Scanner (System.in); 
 		
-		
 		int hora;
 		int min;
 		int seg;
